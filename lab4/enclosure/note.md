@@ -1,0 +1,1 @@
+This is the enclosure for the wand, to look more similar to a wand, the enclosure was designed in two parts. Upper part is thinner and the lower part is where the button installed. The thickness is to fit in the PCB and not so hard to grab in the meantime. Battery is fully enclosed in the space behind the PCB.
